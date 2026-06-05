@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+@keyframes rgb {
+    0% {
+        background-color: #95fff1;
+    }
+
+    25% {
+        background-color: #55ebff;
+    }
+
+    50% {
+        background-color: #60a5ff;
+    }
+
+    75% {
+        background-color: #6473ff;
+    }
+
+    100% {
+        background-color: #74eef7;
+    }
+}
+
+@keyframes flash {
+    0% {
+        background-color: #000000;
+    }
+
+    100% {
+        background-color: #ffffff;
+    }   
+}
+
+body {
+    animation: rgb 20s infinite;
+    
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding-top: 70px;
+    background-color: #AACDDC;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 600px) {
+    body {
+        padding-top: 90px;
+    }
+}
+
+@media (min-width: 1024px) {
+    body {
+        padding-top: 110px;
+    }
+}
+
+main {
+    flex: 1;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+    padding: 1.5rem 1rem 2rem 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.product {
+    background: white;
+    padding: 1.25rem;
+    border-radius: 10px;
+    text-align: center;
+    flex: 1 1 280px;
+    min-width: 250px;
+    max-width: 300px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.product:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.product img {
+    width: 100%;
+    max-width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 6px;
+    background-color: #F3E3D0;
+}
+
+.product p {
+    margin-top: 1rem;
+    font-weight: bold;
+    color: #2c3e50;
+    font-size: 1.1rem;
+    word-wrap: break-word;
+}
+
+/* Tablet devices (600px and up) */
+@media (min-width: 600px) {
+    html {
+        font-size: 16px;
+    }
+
+    .product {
+        flex: 1 1 300px;
+    }
+}
+
+/* Medium devices (768px and up) */
+@media (min-width: 768px) {
+    .container {
+        gap: 2rem;
+        padding: 2.5rem 1.5rem;
+    }
+
+    .product {
+        flex: 0 1 calc(50% - 1rem);
+        max-width: none;
+    }
+}
+
+/* Large devices (1024px and up) */
+@media (min-width: 1024px) {
+    .container {
+        gap: 2.5rem;
+        padding: 3rem 2rem;
+    }
+
+    .product {
+        flex: 0 1 calc(33.333% - 1.7rem);
+    }
+}
+
+/* Extra large devices (1440px and up) */
+@media (min-width: 1440px) {
+    html {
+        font-size: 18px;
+    }
+
+    .product {
+        flex: 0 1 calc(25% - 1.875rem);
+    }
+}
+

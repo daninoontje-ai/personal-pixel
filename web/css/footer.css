@@ -1,0 +1,28 @@
+footer {
+    padding: 10px 20px;
+    background: linear-gradient(50deg, #2a5cda, #46ae9b, #3280b0);
+    bottom: 0;
+    width: 100%;
+    margin-top: auto;
+    padding: 20px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-links {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
