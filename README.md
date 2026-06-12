@@ -18,10 +18,10 @@ In dit onderdeel reflecteer ik op mijn sterke punten, vaardigheden en talenten.
 
 * **Kernkwaliteit 1: Code structureren en organiseren**
     * *Uitleg:* Ik heb een sterk oog voor nette code. Ik vind het belangrijk dat code overzichtelijk en goed gestructureerd is, en ik merk dat dit me natuurlijk afgaat (en ik vind het stiekem ook irritant als code een rommeltje is!).
-    * *Bewijslast:* Zie de structuur van de opdrachten in deze repository: `[Link naar een van je nette code-mappen of projecten]`.
+    * *Bewijslast:* Zie de structuur van de opdrachten in deze repository:.
 * **Kernkwaliteit 2: Logisch en resultaatgericht werken**
     * *Uitleg:* Door mijn passie voor rekenen en design kan ik logische problemen snel vertalen naar visuele resultaten.
-    * *Bewijslast:* `[Link naar een gemaakte opdracht]` of `[Link naar een mapje met gemaakte schoolopdrachten]`.
+    * *Bewijslast:* staat in deze repository.
 * **Ontwikkelpunt: Uitdagingen opzoeken buiten mijn comfortzone**
     * *Plan van aanpak:* Omdat de huidige lesstof me goed afgaat en ik nog niet direct ergens moeite mee heb, wil ik mezelf blijven uitdagen met complexere opdrachten om mijn niveau constant te verhogen.
 
@@ -57,7 +57,7 @@ Mijn actieplan om zelf de regie te nemen over mijn loopbaan en mijn ambitieuze d
 
 | Doelstelling | Actie | Deadline | Status | Bewijs |
 | :--- | :--- | :--- | :--- | :--- |
-| Opleiding versnellen | Uitstekende resultaten behalen voor huidige modules en versnelling aanvragen | Dit schooljaar | **In progress** | `[Link naar cijferlijst of akkoord opleiding]` |
+| Opleiding versnellen | Uitstekende resultaten behalen voor huidige modules en versnelling aanvragen | Dit schooljaar | **In progress** |  |
 | LOB Portfolio inrichten | Deze GitHub repository opzetten en vullen met opdrachten | 12 jun 2026 | **Voltooid** | Deze repository |
 
 ---
