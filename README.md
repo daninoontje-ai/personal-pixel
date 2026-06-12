@@ -58,7 +58,7 @@ Mijn actieplan om zelf de regie te nemen over mijn loopbaan en mijn ambitieuze d
 | Doelstelling | Actie | Deadline | Status | Bewijs |
 | :--- | :--- | :--- | :--- | :--- |
 | Opleiding versnellen | Uitstekende resultaten behalen voor huidige modules en versnelling aanvragen | Dit schooljaar | **In progress** | `[Link naar cijferlijst of akkoord opleiding]` |
-| LOB Portfolio inrichten | Deze GitHub repository opzetten en vullen met opdrachten | [Datum] | **Voltooid** | Deze repository |
+| LOB Portfolio inrichten | Deze GitHub repository opzetten en vullen met opdrachten | 12 jun 2026 | **Voltooid** | Deze repository |
 
 ---
 
@@ -69,4 +69,4 @@ Mijn professionele netwerk inzetten om sneller stappen te maken richting het bed
 
 * **Bestaand netwerk:** Docenten, medestudenten en praktijkbegeleiders die mijn ambitie om te versnellen kunnen ondersteunen.
 * **Netwerkactiviteiten:** * Mijn LinkedIn-profiel up-to-date houden om mijn skills te laten zien aan toekomstige werkgevers.
-    * **Mijn Profiel:** [Bekijk hier mijn LinkedIn](HIER_DE_LINK_NAAR_JOUW_LINKEDIN_PLAKKEN)
+    * **Mijn Profiel:** www.linkedin.com/in/dani-ruiter-961978410
