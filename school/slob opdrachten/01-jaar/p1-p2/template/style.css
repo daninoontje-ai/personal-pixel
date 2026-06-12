@@ -1,0 +1,88 @@
+/* ========== Algemene instellingen ========== */
+body {
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+}
+
+/* ========== navi balk ========== */
+
+nav {
+    background-color: white;
+    margin: 20px 0;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    margin: 0 10px;
+    padding: 0 10px;
+    border-right: 2px solid black;
+}
+
+nav li:last-child {
+    border-right: none;
+}
+
+/* ========== Koppen ========== */
+h2 {
+    color: darkblue;
+    font-size: 28px;
+}
+
+header {
+    border-bottom: 2px solid black;
+}
+
+/* ========== Links ========== */
+a {
+    color: red;
+    font-size: 20px;
+}
+
+nav a {
+    color: black;
+    font-size: 30px;
+}
+
+/* ========== Over Mij sectie ========== */
+.over-mij {
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+.over-mij h2 {
+    font-size: 28px;
+}
+
+.over-mij p {
+    color: darkslategray;
+    font-size: 18px;
+}
+
+/* ========== Afbeeldingen ========== */
+img {
+    width: 1700px;
+    height: 2500px;
+}
+
+nav img {
+    width: 30px;
+    height: 30px;
+}
+
+/* ========== footer ========== */
+footer {
+    background-color: white;
+    margin: 20px 0;
+    border: 2px solid black;
+    padding: 10px;
+}
